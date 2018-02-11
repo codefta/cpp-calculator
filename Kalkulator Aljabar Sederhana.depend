@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514474893 source:e:\programming\kalkulator aljabar sederhana\main.cpp
+	<iostream>
+	<kalku.h>
+	<fstream>
+
